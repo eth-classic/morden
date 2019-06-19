@@ -2,6 +2,8 @@
 
 The Morden proof-of-work testnet for Ethereum Classic.
 
+Atlantis Hardfork: `4_729_274`
+
 ### Parity Ethereum
 
 Required version: 2.4.7+ for Atlantis testing
