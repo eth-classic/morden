@@ -2,6 +2,8 @@
 
 The Morden proof-of-work testnet for Ethereum Classic.
 
+Consensus Monitoring Dashboard: http://34.68.71.127:3000/ (ask on ETC Discord for `WS_SECRET`)
+
 Atlantis Hardfork: `4_729_274`
 
 ### Parity Ethereum
