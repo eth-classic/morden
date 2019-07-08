@@ -18,7 +18,7 @@ parity --chain morden
 
 ### Geth Classic
 
-Required version: 6.0.3+ for Atlantis testing
+Required version: 6.0.6+ for Atlantis testing
 
 ```bash
 geth --testnet
