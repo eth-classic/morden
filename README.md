@@ -1,3 +1,7 @@
+**Update 10/2019** -- Morden has been replaced by **Mordor**: https://github.com/eth-classic/mordor
+
+---
+
 # Morden testnet
 
 [![Join the chat at https://gitter.im/eth-classic/morden](https://badges.gitter.im/eth-classic/morden.svg)](https://gitter.im/eth-classic/morden?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
